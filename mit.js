@@ -1,5 +1,5 @@
 var mit = {
-    city: 'Theni',
+    city: 'Theni Mavattam',
     colors: ['pink', 'red'],
     mascot: "robot",
     founded: 1900,
